@@ -1,0 +1,2 @@
+# Design-and-Simulation-of-Unipolar-and-Bipolar-PWM-control-of-Full-Bridge-Rectifier
+The project was carried out with the objective of analyzing and comparing the performance of two modulation topologies. Separate models were developed for unipolar and bipolar control, where sinusoidal reference wave was compared with a high-frequency triangular carrier wave to generate the switching signals for the full-bridge configuration. 
